@@ -1,8 +1,8 @@
-#discord-bot
+# discord-bot
 Welcome! Hopefully, you stumbled upon my repo because you were seeking information about the :robot:s, if not, 
 then the :robot:s found you!
 
-##About
+## About
 This repo is intended to be *both* a personal project for creating a first Discord Bot from scratch using Discord.js and 
 Node.js && to be a knowledge base for myself or anyone really who comes across it. I will be adding information I found
 helpful along the way.
@@ -11,9 +11,9 @@ helpful along the way.
 this is not a beginners guide to programming or really even a guide at all. Just a collection of my notes, what I found 
 important, helpful, and/or resources I actually used and stashed for later while tinkering!* 
 
-##Getting Started
+## Getting Started
 
-###General Resources
+### General Resources
 I found the official [Discord.js](https://discord.js.org/) and 
 [Discord Developer Portal](https://discord.com/developers/docs/intro) 
 docs to very generous resources for beginners new to Discord Bots. Additionally, this particular community
@@ -35,7 +35,7 @@ db storage is something to look into. [Here](https://www.writebots.com/discord-b
 options I found! - It even comes with readable getting started help for each option! Nifty && Concise* :partying_face:
 
 
-###Discord Developer Servers - Have Questions, need help....
+### Discord Developer Servers - Have Questions, need help?
 
 If you are a developer and you are developing Discord Bots do yourself a favor and join these discord developer servers 
 ASAP. Discord has an amazing developer community it would be a shame to not leverage it even if you don't use them 
