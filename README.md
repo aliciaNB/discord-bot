@@ -31,7 +31,7 @@ Checklist compiled while constructing the hello world project:
 * JavaScript, [ES6 Standards](https://www.w3schools.com/js/js_es6.asp), JSON, APIs
  
 ***Note**: Beyond hello world and self-hosting. You want the bot to run 24/7? Investing in a VPS, server hosting, and/or
-db storage is something to look into. [Here](https://www.writebots.com/discord-bot-hosting/)* is the best summary of 
+db storage is something to look into. [Here](https://www.writebots.com/discord-bot-hosting/) is the best summary of 
 options I found! - It even comes with readable getting started help for each option! Nifty && Concise* :partying_face:
 
 
@@ -54,12 +54,13 @@ Things you can do:
  community for developers to support each other with some direct access to Discord staff who know the ins and outs of 
  our tech."
  
+  - [Discord.js Official Server](https://discord.gg/bRCvFy9) - This server is the official discord.js server and has a
+  vast library of resources specific to javascript and discord.js.
+ 
  - [Discord API - Official Unofficial API Server](https://discord.gg/discord-api) - "This server is an unofficial server 
  for discussing all facets of Discord's API, including bot creation, OAuth2, rich presence, and others. We also have 
  channels for most libraries that currently interface with the API, allowing for discussion of those libraries."
  
- - [Discord.js Official Server](https://discord.gg/bRCvFy9) - This server is the official discord.js server and has a
- vast library of resources specific to javascript and discord.js.
 
 
 
