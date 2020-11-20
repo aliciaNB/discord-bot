@@ -1,4 +1,4 @@
-# discord-bot
+#discord-bot
 Welcome! Hopefully, you stumbled upon my repo because you were seeking information about the :robot:s, if not, 
 then the :robot:s found you!
 
