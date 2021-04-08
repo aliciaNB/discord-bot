@@ -5,7 +5,7 @@ const config = require('../config.json');
 client.on('message', message => {
     if (message.content === '!ping') {
         // send back message back to the channel the message was sent in
-        message.channel.send('Pong...Mudda dukka');
+        message.channel.send('Pong.');
     }
 });
 
